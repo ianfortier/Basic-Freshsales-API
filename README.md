@@ -5,7 +5,7 @@ Also supported: asynchronous requests through Guzzle's promises.
 
 This library required PHP >= 7.
 
-PS: This project is largely inspired (aka copy <3 ) from the MIT [osiset/Basic-Shopify-API](https://github.com/osiset/Basic-Shopify-API/blob/master/LICENSE).
+PS: This project is largely inspired (aka copy <3 ) from [osiset/Basic-Shopify-API](https://github.com/osiset/Basic-Shopify-API).
 
 ## Table of Contents
   * [Installation](#installation)
@@ -190,4 +190,3 @@ $api->setLogger(... your logger instance ...);
 ## LICENSE
 
 This project is released under the MIT [license](https://github.com/ianfortier/Basic-Freshsales-API/blob/master/LICENSE).
-This project is largely inspired (aka copy <3 ) from the MIT [osiset/Basic-Shopify-API](https://github.com/osiset/Basic-Shopify-API/blob/master/LICENSE).
